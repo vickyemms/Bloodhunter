@@ -1,2 +1,2 @@
-# bloodhunter
-school project for MAPP
+# Bloodhunter
+School project for MAPP
